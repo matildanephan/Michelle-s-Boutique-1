@@ -1,0 +1,41 @@
+.hdr
+{
+  background: #000;/rgb(0,0,0) */
+  top: 0;
+  left: 0;
+  right: 0;
+  Position: fixed;
+  a{
+   
+   Color: #FFF;/*rgb(255,255,255) */
+   font-size: 25px
+  }
+}
+
+.bdy
+ {
+   backgoundd: #0f0; /* rgb(0,255,0) */
+   text-align: center;
+   h1{
+     
+     color: #FFF; /* rgb(255,255,255) */
+     font-size: 10px;
+ }
+
+}
+
+.ftr
+{
+ 
+  background:#00F; /* rgb(0,0,255) */
+  H2{
+   
+   color: #FFF; /* rgb(255,255,255) */
+   font-size:10px
+  }
+}
+ 
+
+
+
+	
